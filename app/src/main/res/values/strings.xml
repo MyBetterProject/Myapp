@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="CarApp">Esp32App</string>
+    <string name="app_name">Esp32App</string>
+    <string name="turnleft">向左--</string>
+    <string name="turnright">向右--</string>
+    <string name="upward">向上--</string>
+    <string name="downward">向下--</string>
+    <string name="send">发送</string>
+    <string name="stop">停止--</string>
+    <string name="save">保存</string>
+    <string name="command">请输入指令</string>
+
+
+
+</resources>
